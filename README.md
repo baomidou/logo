@@ -1,6 +1,4 @@
-MyBatis Logo
+MyBatis-Plus Logo
 ============
 
-![mybatis-logo](http://mybatis.github.io/images/mybatis-logo.png)
-
-MyBatis Ninja Logo.
+Thanks for [MyBatis Ninja Logo](https://github.com/mybatis/logo).
